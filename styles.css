@@ -80,7 +80,7 @@ img {
 .activity-wrapper_image {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .activity-section img {
@@ -120,7 +120,7 @@ img {
   margin: 0 auto;
   padding: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   text-align: center;
   background: #ffd6af;
   color: #6b4b3e;
